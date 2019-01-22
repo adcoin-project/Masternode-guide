@@ -214,7 +214,7 @@ Now the masternode setup is complete, you are safe to remove “enablezeromint=0
  > 2) Then from your controller wallet PC, edit your masternode.conf, delete the MN1 masternode line entry.  
  > 3) Now restart the controller wallet.  
  > 4) your 100K will now be unlocked.  
-2. How do I get the 10k back that I’ve send to my MN1 address at the beginning of the MN1 setup?
+2. How do I get the 100k back that I’ve send to my MN1 address at the beginning of the MN1 setup?
  > You don’t need to “get that back” as it is already in your wallet.
 Being in the different address is not an issue as that’s also your address.
 3. Can I use this 100k normally on my wallet then again, and sell it or stake it normally like before?
