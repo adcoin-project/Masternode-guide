@@ -136,7 +136,7 @@ masternode=1
 externalip=your unique public ip address
 masternodeprivkey=Result of Step 1
 ```
-Make sure to replace rpcuser and rpcpassword with your own.
+Make sure to replace rpcuser, rpcpassword and externalip with your own.
 
 
 9. to exit nano press
