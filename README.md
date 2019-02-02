@@ -1,7 +1,7 @@
 # AdCoin Masternode Setup Guide
 
 ## Introduction
-This guide is for a single masternode, on a Ubuntu 16.04 64bit server (VPS) running headless and will be controlled from the wallet on your local computer (Control wallet). The wallet on the the VPS will be referred to as the Remote wallet.
+This guide is for a single masternode, on a Ubuntu 18.10 64bit server (VPS) running headless and will be controlled from the wallet on your local computer (Control wallet). The wallet on the the VPS will be referred to as the Remote wallet.
 You will need your server details for progressing through this guide.
 
 First the basic requirements:
