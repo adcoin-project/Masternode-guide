@@ -97,7 +97,7 @@ First you need to connect to your vps.
  ```
  - Unzip and extract:
  ```bash  
- tar xf AdCoin-Linux.tar.xz
+ tar -xf AdCoin-Linux.tar.xz
  ```
  - Go to your ADCOIN 3.1.1 bin directory:
  ```bash
